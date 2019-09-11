@@ -2,3 +2,4 @@ lasanha
 frango assado
 batata frita
 hamburguer
+FEIJÃO
